@@ -1,4 +1,5 @@
 # 👋 Lorenzo Santos
 
-**'Digital Craftsman"**
+**'Digital Craftsman'**
+
 I'm a freelance blockchain developer
